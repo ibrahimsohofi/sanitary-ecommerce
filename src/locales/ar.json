@@ -1,0 +1,45 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "cart": "العربة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "search": "بحث",
+    "add_to_cart": "أضف إلى العربة",
+    "price": "السعر",
+    "brand": "العلامة التجارية",
+    "category": "الفئة",
+    "featured": "مميز"
+  },
+  "categories": {
+    "toilettes": "مراحيض",
+    "lavabos": "أحواض",
+    "robinetterie": "حنفيات",
+    "douches": "دوشات",
+    "baignoires": "أحواض استحمام",
+    "accessoires": "إكسسوارات"
+  },
+  "pages": {
+    "home": {
+      "title": "اجعل حمامك أنيقاً",
+      "subtitle": "اكتشف مجموعتنا المتميزة من المعدات الصحية. الجودة والتصميم والابتكار لراحتك اليومية.",
+      "shop_now": "تسوق الآن",
+      "featured_products": "منتجاتنا المميزة"
+    },
+    "products": {
+      "title": "المنتجات",
+      "found": "تم العثور على",
+      "no_products": "لم يتم العثور على منتجات"
+    },
+    "cart": {
+      "title": "عربة التسوق",
+      "empty": "عربتك فارغة",
+      "continue_shopping": "متابعة التسوق",
+      "checkout": "إتمام الشراء",
+      "subtotal": "المجموع الفرعي",
+      "shipping": "الشحن",
+      "total": "الإجمالي"
+    }
+  }
+}
